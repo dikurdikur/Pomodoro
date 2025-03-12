@@ -10,3 +10,9 @@ This is a React and Node.js application.
 cd frontend
 npm install
 npm start
+
+### Backend
+```bash
+cd backend
+npm install
+node server.js
